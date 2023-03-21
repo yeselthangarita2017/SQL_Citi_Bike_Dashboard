@@ -1,4 +1,4 @@
-# Citi-bikes_SQL_Dashboard
+# Citibike_SQL_Dashboard
 
 This dashboard was created by pulling informacion from BigQuery public datasets with SQL. Some graphics have a specific SQL query extracting the information from BigQuery on real-time. 
 
