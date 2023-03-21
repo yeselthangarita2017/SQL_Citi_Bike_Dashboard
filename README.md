@@ -28,7 +28,7 @@ Trips:
 ## Questions answered on the dashboard
 
 1. What are the most popular stations by gender?
-2. What are the most popular stations to combine? 
-3. What is the capacity in what stations? 
-4. What is the total number of stations? 
-5. What is the total number of stations available?
+2. What are the top 5 most popular stations to combine? (SQL)
+3. What are the peak times on weekdays? (SQL)
+4. What is the capacity in what stations? 
+5. What is the total number of stations and what is the total number of stations available?
