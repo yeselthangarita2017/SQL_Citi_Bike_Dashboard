@@ -32,3 +32,14 @@ Trips:
 3. What are the peak times on weekdays? (SQL)
 4. What is the capacity in what stations? 
 5. What is the total number of stations and what is the total number of stations available?
+
+Citibike dashboard - Mon March 27 after Omar's input 
+
+1. How much use do people in NYC give to bicycles per gender?
+2 What are the top 5 most popular stations? 
+**Check if need to maybe remove the phrase "both genders." I do not think it makes sense there 
+3. What are the most popular times on Weekdays?
+4. What stations have the highest capacity and may need to increase their size?
+5. What stations have less use and could disappear?  
+6. What stations have available bicycles? 
+7. What stations have disabled bicycles?(Edited)
