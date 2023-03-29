@@ -42,4 +42,4 @@ Citibike dashboard - Mon March 27 after Omar's input
 4. What stations have the highest capacity and may need to increase their size?
 5. What stations have less use and could disappear?  
 6. What stations have available bicycles? 
-7. What stations have disabled bicycles?(Edited)
+7. What stations have disabled bicycles?
