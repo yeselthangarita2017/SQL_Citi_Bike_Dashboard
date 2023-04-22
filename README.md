@@ -33,7 +33,7 @@ Trips:
 4. What is the capacity in what stations? 
 5. What is the total number of stations and what is the total number of stations available?
 
-Citibike dashboard - Mon March 27 after Omar's input 
+Citibike dashboard - Mon March 27 after Omar's input | Updated: Fri Apr 21
 
 1. How much use do people in NYC give to bicycles per gender?
 2 What are the top 5 most popular stations? 
@@ -43,3 +43,4 @@ Citibike dashboard - Mon March 27 after Omar's input
 5. What stations have less use and could disappear?  
 6. What stations have available bicycles? 
 7. What stations have disabled bicycles?
+8. What is the generation #1 riding the bicycles per year? (MUST CHECK question)
