@@ -32,4 +32,4 @@ Trips:
 3. What are the top 5 most popular stations to combine? (SQL)
 4. What are the peak times on weekdays? (SQL)
 5. What are the peak times on weekends? (SQL)
-6. From April 2017 to September 2018, what is the first generation that is riding the bicycles? (SQL)
+6. From April 2017 to September 2018, which generation was the first to ride bicycles? (SQL)
