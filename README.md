@@ -4,6 +4,8 @@ This dashboard was created by pulling informacion from BigQuery public datasets 
 
 Click here to access this dashboard: [New York City Citibike Dashboard](https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD). Access the SQL code by downloading the attached PDF file. 
 
+This dashboard provides insights about historical trips data from April 12, 2017, to September 20, 2018, and real-time stations data from January 26, 2023, to present.
+
 ## Citibike Stations & Citibike Trips
 
 One of the 2 datasets I used to build the dashboard and both found in BigQuery is the Citibike Stations and the other one is Citibike Trips. Here is some interesting information found in each dataset: 
