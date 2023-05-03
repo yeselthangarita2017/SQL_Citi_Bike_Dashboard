@@ -2,7 +2,7 @@
 
 This dashboard was created by pulling informacion from BigQuery public datasets with SQL. Some graphics have a specific SQL query extracting the information from BigQuery on real-time. 
 
-Click here to access this dashboard: New York City Citibike Dashboard (link here). Access the SQL code by downloading the attached PDF file. 
+Click here to access this dashboard: [New York City Citibike Dashboard](https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD). Access the SQL code by downloading the attached PDF file. 
 
 ## Citibike Stations & Citibike Trips
 
