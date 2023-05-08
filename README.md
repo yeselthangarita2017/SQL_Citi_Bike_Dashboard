@@ -32,7 +32,7 @@ I believe other interesting analyses can be done with this dataset.
 
 ### Insight 1
 
-Business (2017-2018: The popular times on weekdays are early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use the bicycles, and weekend events that attract more people lead to increased demand during the day.
+Business (2017-2018): The popular times on weekdays are early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use the bicycles, and weekend events that attract more people lead to increased demand during the day.
 
 ### Insight 2
 
