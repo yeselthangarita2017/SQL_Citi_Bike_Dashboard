@@ -42,7 +42,7 @@ Marketing: Pershing Square North is the popular starting and ending station for 
 
 These insights are about historical trips' data from April 12, 2017, to September 20, 2018, and real-time stations' data from January 26, 2023, to the present. 
 
-It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC that could be integrated into the NYC Citi Bikes App or Lyft app to support internal business and operation and marketing systems. 
+It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC that could be integrated into the NYC Citi Bikes App or Lyft app to support internal business, operation, and marketing systems. 
 
 ## Questions answered on the dashboard
 
