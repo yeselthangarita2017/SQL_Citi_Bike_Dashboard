@@ -8,7 +8,7 @@ To access the dashboard, click here: [New York City Citi Bike Dashboard]( https:
 
 ## Citi Bike Stations & Citi Bike Trips 
 
-The BigQuery NYC Citi Bike Trips dataset ranges from April 12, 2017, to September 20, 2018, with a monthly update frequency, and the BigQuery NYC Citi Bike Stations dataset ranges from January 26, 2023, to the present, with a daily expected update frequency. Following analytics principles, I analyzed the data separately as historical/reference data and real-time data. Then, I connected the dots by looking at the challenge from three perspectives: 1) Business, 2) Operations, and 3) Marketing. Here is some interesting information found in each dataset: 
+The BigQuery NYC Citi Bike Trips dataset ranges from April 12, 2017, to September 20, 2018, with a monthly update frequency, and the BigQuery NYC Citi Bike Stations dataset ranges from January 26, 2023, to the present, with a daily expected update frequency. Following analytics principles, I analyzed the data separately as historical/reference data and real-time data. Then, I connected the dots by looking at the challenge from three distinct yet linked perspectives: 1) Business, 2) Operations, and 3) Marketing. Here is some interesting information found in each dataset: 
 
 Stations: 
 
@@ -25,6 +25,8 @@ Trips:
 * End station name 
 * Trip duration 
 * Customer plan that determines the rate charged for the trip 
+
+I believe other interesting analyses can be done with this dataset.
 
 ## Analysis 
 
