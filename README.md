@@ -1,4 +1,4 @@
-# Citibike SQL Dashboard
+# Citi Bike SQL Dashboard
 
 Are you planning to go to NYC and include a bicycle adventure? or do you want to ride a bicycle and enjoy the landscape on your way to work? Some stations show that there are bicycles available when they are not, making tourists more confused, and employees in NYC get frustrated and decide to take the train instead and possibly be late for work. 
 
