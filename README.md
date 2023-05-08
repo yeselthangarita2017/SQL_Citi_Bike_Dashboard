@@ -8,7 +8,7 @@ In this dashboard, I used SQL queries to pull some information and created plots
 
 This dashboard provides insights about historical trips' data from April 12, 2017, to September 20, 2018, and real-time stations' data from January 26, 2023, to the present. 
 
-It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC that could be integrated into the NYC Citi Bikes App or #Lyft app to support internal business and operation and marketing systems. 
+It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC that could be integrated into the NYC Citi Bikes App or Lyft app to support internal business and operation and marketing systems. 
 
 Click here to access this dashboard: [New York City Citibike Dashboard](https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD). To access the SQL code used to pull data from BigQuery, check the attached PDF file. 
 
