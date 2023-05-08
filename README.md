@@ -32,7 +32,7 @@ I believe other interesting analyses can be done with this dataset.
 
 ### Insight 1
 
-Business: The popular times on weekdays are early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use the bicycles, and weekend events that attract more people lead to increased demand during the day.
+Business (2017-2018: The popular times on weekdays are early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use the bicycles, and weekend events that attract more people lead to increased demand during the day.
 
 ### Insight 2
 
@@ -40,9 +40,7 @@ Operations (real-time): FDR Drive & E 35 St has the highest capacity and may nee
 
 ### Insight 3
 
-Marketing: Pershing Square North is the popular starting and ending station for males, while W 21 St & 6 Ave is the popular starting station, and E 17 St & Broadway is the popular ending station for females. Millennials rode the bicycles the most. 
-
-It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC, which could be integrated into the NYC Citi Bike app or Lyft app to support internal business, operation, and marketing systems. 
+Marketing (2017-2018: Pershing Square North is the popular starting and ending station for males, while W 21 St & 6 Ave is the popular starting station, and E 17 St & Broadway is the popular ending station for females. Millennials rode the bicycles the most. 
 
 ## Questions answered on the dashboard
 
