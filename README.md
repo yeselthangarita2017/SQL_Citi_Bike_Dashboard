@@ -1,10 +1,17 @@
 # Citibike SQL Dashboard
 
-This dashboard was created by pulling informacion from BigQuery public datasets with SQL. Some graphics have a specific SQL query extracting the information from BigQuery on real-time. 
+Are you planning to go to NYC and include a bicycle adventure? or do you want to ride a bicycle and enjoy the landscape on your way to work? Some stations show that there are bicycles available when they are not, making tourists more confused, and employees in NYC get frustrated and decide to take the train instead and possibly be late for work. 
 
-Click here to access this dashboard: [New York City Citibike Dashboard](https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD). Access the SQL code by downloading the attached PDF file. 
+I used [BigQuery's NYC Citi Bike Stations and NYC Citi Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?project=ny-citi-bikes) public datasets to create an interactive dashboard.
 
-This dashboard provides insights about historical trips data from April 12, 2017, to September 20, 2018, and real-time stations data from January 26, 2023, to present.
+In this dashboard, I used SQL queries to pull some information and created plots on Google Looker Studio. The goal is to facilitate the analysis and agile/strategic decision-making process of employees and tourists. These analyses and visualizations are based on popular starting/ending stations by gender, top 5 starting/ending combination stations, popular times on weekdays/weekends, and capacity by station.
+
+This dashboard provides insights about historical trips' data from April 12, 2017, to September 20, 2018, and real-time stations' data from January 26, 2023, to the present. 
+
+It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC that could be integrated into the NYC Citi Bikes App or #Lyft app to support internal business and operation and marketing systems. 
+
+Click here to access this dashboard: [New York City Citibike Dashboard]([https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD]. To access the SQL code used to pull data from BigQuery, check the attached PDF file. 
+
 
 ## Citibike Stations & Citibike Trips
 
