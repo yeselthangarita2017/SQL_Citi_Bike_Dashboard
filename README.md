@@ -8,7 +8,7 @@ To access the dashboard, click here: [New York City Citi Bike Dashboard]( https:
 
 ## Citi Bike Stations & Citi Bike Trips 
 
-One of the 2 datasets I used to build the dashboard and both found in BigQuery is the Citibike Stations and the other one is Citibike Trips. Here is some interesting information found in each dataset: 
+One of the two datasets I used to build the dashboard and both found in BigQuery is the Citi Bike Stations and the other one is Citi Bike Trips. Here is some interesting information found in each dataset: 
 
 Stations: 
 
