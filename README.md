@@ -8,7 +8,7 @@ To access the dashboard, click here: [New York City Citi Bike Dashboard]( https:
 
 ## Citi Bike Stations & Citi Bike Trips 
 
-One of the two datasets I used to build the dashboard and both found in BigQuery is the Citi Bike Stations and the other one is Citi Bike Trips. Here is some interesting information found in each dataset: 
+The BigQuery NYC Citi Bike Trips dataset ranges from April 12, 2017, to September 20, 2018, with a monthly update frequency, and the BigQuery NYC Citi Bike Stations dataset ranges from January 26, 2023, to the present, with a daily expected update frequency. Following analytics principles, I analyzed the data separately as historical/reference data and real-time data. Then, I connected the dots by looking at the challenge from three perspectives: 1) Business, 2) Operations, and 3) Marketing. Here is some interesting information found in each dataset: 
 
 Stations: 
 
@@ -39,8 +39,6 @@ Operations (real-time): FDR Drive & E 35 St has the highest capacity and may nee
 ### Insight 3
 
 Marketing: Pershing Square North is the popular starting and ending station for males, while W 21 St & 6 Ave is the popular starting station, and E 17 St & Broadway is the popular ending station for females. Millennials rode the bicycles the most. 
-
-These insights are about historical trips' data from April 12, 2017, to September 20, 2018, and real-time stations' data from January 26, 2023, to the present. 
 
 It is a small visualization/tool to facilitate the decision-making process and experience of tourists and employees in NYC, which could be integrated into the NYC Citi Bike app or Lyft app to support internal business, operation, and marketing systems. 
 
