@@ -2,7 +2,7 @@
 
 I used [BigQuery's NYC Citi Bike Stations and NYC Citi Bike Trips public datasets](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?project=ny-citi-bikes) to create an interactive dashboard, and SQL queries to pull some information and create plots. 
 
-My goal is to facilitate the analysis and agile/strategic decision-making process of employees and tourists living/visiting New York City. These analyses and visualizations are based on popular starting/ending stations by gender, top 5 starting/ending combination stations, popular times on weekdays/weekends, and capacity by station.
+My goal is to facilitate the analysis and agile/strategic decision-making process of employees and tourists in New York City. These analyses and visualizations are based on popular starting/ending stations by gender, top 5 starting/ending combination stations, popular times on weekdays/weekends, and capacity by station.
 
 To access the dashboard, click here: [New York City Citi Bike Dashboard]( https://lookerstudio.google.com/embed/reporting/8d31609f-a11d-4179-ac3a-3a1878053e7a/page/M3rFD). To access the SQL code used to pull data from BigQuery, check the attached PDF file. 
 
