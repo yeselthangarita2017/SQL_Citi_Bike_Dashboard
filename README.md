@@ -1,4 +1,4 @@
-# Citi Bike SQL Dashboard
+# Citi Bike SQL Dashboard - CHEck - it says "used" too many times
 
 I used [BigQuery's NYC Citi Bike Stations and NYC Citi Bike Trips public datasets](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?project=ny-citi-bikes) to create an interactive dashboard.
 
