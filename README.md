@@ -40,7 +40,7 @@ Operations (real-time): FDR Drive & E 35 St has the highest capacity and may nee
 
 ### Insight 3
 
-Marketing (2017-2018): Pershing Square North is the popular starting and ending station for males, while W 21 St & 6 Ave is the popular starting station, and E 17 St & Broadway is the popular ending station for females. Millennials rode the bicycles the most. 
+Marketing (2017-2018): Millennials rode the bicycles the most. Pershing Square North is the popular starting and ending station for males, while W 21 St & 6 Ave is the popular starting station, and E 17 St & Broadway is the popular ending station for females. 
 
 ## Questions answered on the dashboard
 
