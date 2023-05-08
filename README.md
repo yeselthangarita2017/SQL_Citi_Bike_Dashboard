@@ -6,7 +6,7 @@ In this [dashboard](https://lookerstudio.google.com/embed/reporting/8d31609f-a11
 
 The goal is to facilitate the analysis and agile/strategic decision-making process of employees and tourists. These analyses and visualizations are based on popular starting/ending stations by gender, top 5 starting/ending combination stations, popular times on weekdays/weekends, and capacity by station.
 
-## Citibike Stations & Citibike Trips 
+## Citi-Bike Stations & Citi-Bike Trips 
 
 One of the 2 datasets I used to build the dashboard and both found in BigQuery is the Citibike Stations and the other one is Citibike Trips. Here is some interesting information found in each dataset: 
 
