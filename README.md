@@ -1,6 +1,6 @@
 # Citi Bike SQL Dashboard - CHEck - it says "used" too many times
 
-I used [BigQuery's NYC Citi Bike Stations and NYC Citi Bike Trips public datasets](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?project=ny-citi-bikes) to create an interactive dashboard, and BigQuery and SQL queries to pull some information and create plots on Looker Studio. 
+I used [BigQuery's NYC Citi Bike Stations and NYC Citi Bike Trips public datasets](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?project=ny-citi-bikes) to create an interactive dashboard, and SQL queries to pull some information and create plots. 
 
 My goal is to facilitate the analysis and agile/strategic decision-making process of employees and tourists. These analyses and visualizations are based on popular starting/ending stations by gender, top 5 starting/ending combination stations, popular times on weekdays/weekends, and capacity by station.
 
