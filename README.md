@@ -26,7 +26,7 @@ Trips:
 * Trip duration 
 * Customer plan that determines the rate charged for the trip 
 
-## Final Analysis 
+## Analysis 
 
 ### Insight 1
 
