@@ -40,7 +40,7 @@ Operations (real-time): When I analyzed this data, the station (FDR Drive & E 35
 
 ### Insight 3
 
-Marketing (2017-2018): Millennials rode the bicycles the most. Pershing Square North was the popular starting and ending station for males, while W 21 St & 6 Ave was the popular starting station, and E 17 St & Broadway was the popular ending station for females. 
+Marketing (2017-2018): Millennials rode the bicycles the most. The station (Pershing Square North) was the popular starting and ending station for males, while the station (W 21 St & 6 Ave) was the popular starting station, and the station (E 17 St & Broadway) was the popular ending station for females. 
 
 ## Questions answered on the dashboard
 
