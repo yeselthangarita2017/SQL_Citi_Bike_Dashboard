@@ -36,7 +36,7 @@ Business (2017-2018): The popular times on weekdays were early in the morning an
 
 ### Insight 2
 
-Operations (real-time): FDR Drive & E 35 St has the highest capacity and may need expansion since it is between Wall Street and Midtown Manhattan. It makes sense that it is highly visited by both males and females, who could be employees. The W 4 St & 7 Ave S has the lowest capacity and could be removed.
+Operations (real-time): When I analyzed this data, the station (FDR Drive & E 35 St) has the highest capacity and may need expansion since it is between Wall Street and Midtown Manhattan. The high capacity of this station could relate to the high volume of both males and females who could be employees. The station (W 4 St & 7 Ave S) has the lowest capacity and could be removed. These stations' capacities can vary overtime. 
 
 ### Insight 3
 
