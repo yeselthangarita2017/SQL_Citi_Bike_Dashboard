@@ -32,15 +32,15 @@ I believe other interesting analyses can be done with this dataset.
 
 ### Insight 1
 
-Business (2017-2018): The popular times on weekdays were early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use the bicycles, and weekend events that attract more people lead to increased demand during the day.
+Business (2017-2018): The popular times on weekdays were early in the morning and late afternoon, which suggests round trips to and from work. The popular times on weekends are late morning until late afternoon, suggesting people performing leisure activities. The reduction of traffic makes it easier and safer for clients to use bicycles, and weekend events that attract more people lead to increased demand during the day.
 
 ### Insight 2
 
-Operations (real-time): When I analyzed this data, the station (FDR Drive & E 35 St) has the highest capacity and may need expansion since it is between Wall Street and Midtown Manhattan. The high capacity of this station could relate to the high volume of both males and females who could be employees. The station (W 4 St & 7 Ave S) has the lowest capacity and could be removed. These stations' capacities can vary overtime. 
+Operations (real-time): When I analyzed this data, the station (FDR Drive & E 35 St) has the highest capacity and may need expansion since it is between Wall Street and Midtown Manhattan. The high capacity of this station could relate to the high volume of both males and females who could be employees. The station (W 4 St & 7 Ave S) has the lowest capacity and could be removed. These stations' capacities can vary over time. 
 
 ### Insight 3
 
-Marketing (2017-2018): Millennials rode the bicycles the most. The station (Pershing Square North) was the popular starting and ending station for males, while the station (W 21 St & 6 Ave) was the popular starting station, and the station (E 17 St & Broadway) was the popular ending station for females. 
+Marketing (2017-2018): Millennials rode bicycles the most. The station (Pershing Square North) was the popular starting and ending station for males, while the station (W 21 St & 6 Ave) was the popular starting station, and the station (E 17 St & Broadway) was the popular ending station for females. 
 
 ## Questions answered on the dashboard
 
