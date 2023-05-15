@@ -46,7 +46,7 @@ Marketing (2017-2018): Millennials rode bicycles the most. The station (Pershing
 
 1. What are the most popular starting stations by gender?
 2. What are the most popular ending stations by gender?
-3. What are the top 5 most popular stations to combine? 
+3. What are the top 5 most popular starting and ending stations to combine? 
 4. What are the peak times on weekdays?
 5. What are the peak times on weekends? 
 6. From April 2017 to September 2018, which generation was the first to ride bicycles? 
